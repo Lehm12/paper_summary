@@ -1,2 +1,2 @@
 # paper_summary
-論文をまとめる
+論文をissuesにまとめるだけの場所
